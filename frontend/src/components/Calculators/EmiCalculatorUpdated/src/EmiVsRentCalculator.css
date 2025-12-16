@@ -1,0 +1,20 @@
+/* MobileWaitlistButton.css */
+.mobile-waitlist-btn {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  background-color: #007FAD;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 50px;
+  font-weight: bold;
+  text-align: center;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.mobile-waitlist-btn:hover {
+  background-color: #005f8a;
+}

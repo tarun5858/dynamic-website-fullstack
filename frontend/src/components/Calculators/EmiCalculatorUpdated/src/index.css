@@ -1,0 +1,179 @@
+
+    .css-1yuhvjn{
+        margin: -10px !important;
+    }
+    .MuiBox-root{
+      padding: 0px ;
+      /* margin-top: 7%; */
+    }
+    .css-mdw22z {
+      margin-top: 16px;
+      margin-bottom: 16px;
+      padding-left: 0px;
+      padding-right: 0px;
+      width: 22%;
+  }
+  .css-j5j15 {
+    margin-top: 7%;
+    padding-left: 0px;
+    padding-right: 16px;
+}
+.css-t7r9eg {
+  padding-left: 8px;
+  padding-right: 12px;
+  margin-top: 7%;
+}
+.css-1vc8oil {
+  margin-top: 24px;
+  padding: 16px;
+  background-color: #ffeed2!important;
+  border-radius: 16px;
+}
+
+    .css-alnuhg-MuiTypography-root,.css-1534noa-MuiTypography-root,.css-1rs44lj-MuiTypography-root,.css-1pwy8n0-MuiTypography-root,.MuiTypography-root{
+      font-family: "Poppins" !important
+
+    }
+
+    body {
+        font-family: 'Poppins', sans-serif !important;
+        margin: 0;
+        /* padding: 0; */
+      }
+      
+      h1, h2, h3, h4, h5, h6 {
+        font-weight: 700; /* Bold */
+        font-family: 'Poppins', sans-serif !important;
+      }
+      
+      strong {
+        font-weight: 600; /* Semi-Bold */
+        font-family: 'Poppins', sans-serif !important;
+      }
+      
+      p {
+        font-weight: 400; /* Regular */
+        font-family: 'Poppins', sans-serif !important;
+      }
+
+.mobile-waitlist-btn {
+  position: fixed;
+  bottom: 37px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  background-color: #007FAD;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 50px;
+  font-weight: bold;
+  text-align: center;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.mobile-waitlist-btn:hover {
+  background-color: #005f8a;
+}      
+.css-51x56s{
+  z-index: 1000 !important;
+}
+.calculator-sub-title{
+color: #505050!important;
+font-size: 18px;
+}
+.calculator-subhead{
+  margin-top: 10%;
+  margin-left: -31px;
+}
+
+.EventCardMobile{
+  overflow-x:scroll;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  overflow-x: hidden; /* hide horizontal scrollbar */
+  overflow-y: scroll; /* keep vertical scrollbar */
+}
+@media (min-width: 1024px) {
+  body {
+    /* background-color: #ececec; */
+  }
+}
+@media (max-width: 575px) {
+  .calculator-subhead {
+    margin-top: 35%;
+    margin-left: 2%;
+    color: #fff;
+}
+.calculator-subhead{
+  display: none;
+}
+
+
+.css-1cb6djm-MuiSlider-root .MuiSlider-valueLabel {
+    background-color: #DEDEDE;
+    color: black;
+    font-weight: 700;
+    top: -3px!important;
+    border-radius: 20px;
+    padding: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.css-1cb6djm-MuiSlider-root {
+  padding: 20px 0;
+  margin-top: 10%!important;
+
+
+}
+.css-l7bq8c-MuiButtonBase-root-MuiButton-root{
+  text-transform: inherit!important;
+  text-decoration: none!important;
+}
+
+
+*{
+  font-family: 'poppins' !important;
+}
+
+.assumed-val{
+display: flex;
+align-self: flex-end;
+}
+.css-mdw22z {
+  margin-top: 16px;
+  margin-bottom: 16px;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 100%;
+}
+.css-7yi15n {
+  padding: 25px!important;
+}
+}
+
+.css-poupsu-MuiGrid-root>.MuiGrid-item {
+  padding-left: 0px!important;
+}
+
+.css-1cb6djm-MuiSlider-root .MuiSlider-valueLabel {
+  background-color: #DEDEDE;
+  color: black;
+  font-weight: 700;
+  top: -3px!important;
+  border-radius: 20px;
+  padding: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.css-1cb6djm-MuiSlider-root {
+  padding: 20px 0;
+  margin-top: 15%;
+
+
+}
+    .css-ifwt59-MuiContainer-root{
+      color: transparent!important;
+    }

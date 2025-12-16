@@ -1,0 +1,51 @@
+const  HowitworksData = [
+  {
+    id:"1",
+    heading:"Pre-Qualification",
+    paragraph:"Complete a quick assessment to confirm your eligibility for the Prehome program.",
+    imgkeyNumber:"cardnumber1",
+    imgkeyIcon:"cardicon1",
+    reverse:"false",
+},
+  {
+     id:"2",
+    heading:"Choose Your Prehome",
+    paragraph:"Once pre-qualified, explore our technology driven curated selection of properties. ",
+    imgkeyNumber:"cardnumber2",
+    imgkeyIcon:"cardicon2",
+     reverse:"true",
+},
+  {
+     id:"3",
+    heading:"Move In Now, Lock Your Future Price",
+    paragraph:"Start living in your chosen home immediately with tomorrow's purchase price secured today.",
+    imgkeyNumber:"cardnumber3",
+    imgkeyIcon:"cardicon3",
+     reverse:"false",
+},
+  {
+     id:"4",
+    heading:"Predictable Payment Structure",
+    paragraph:"Enjoy fixed monthly payments through the lease term, eliminating unexpected costs or surprises.",
+    imgkeyNumber:"cardnumber4",
+    imgkeyIcon:"cardicon4",
+     reverse:"true",
+},
+  {
+     id:"5",
+    heading:"Experience before you buy",
+    paragraph:"After two years, you decide whether you want to go ahead at your pre-locked price or simply move on—no obligations.",
+    imgkeyNumber:"cardnumber5",
+    imgkeyIcon:"cardicon5",
+     reverse:"false",
+},
+//   {
+//      id:"6",
+//     heading:"Let's write it together.",
+//     paragraph:"Your home ownership story matters to us.",
+//     imgkeyNumber:"",
+//     imgkeyIcon:"logo",
+//      reverse:"true",
+// },
+]
+export default HowitworksData;

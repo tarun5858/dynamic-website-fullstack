@@ -1,0 +1,75 @@
+@media (min-width: 1200px) {
+    .css-15e01qk-MuiContainer-root {
+        max-width: 1230px!important;
+        margin-top: 5%;
+    }
+}
+*{
+  /* font-family:"poppins",sans-serif!important; */
+}
+.css-1vc8oil {
+    margin-top: 24px;
+    padding: 16px;
+    background-color: #ffeed2!important;
+    border-radius: 16px;
+  }
+  .css-1ll44ll-MuiOutlinedInput-notchedOutline{
+    border: none!important;
+  }
+
+  .table-container {
+  width: 100%;
+  overflow-x: auto;
+
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.table-head{
+  background-color: grey;
+}
+th,
+td {
+  padding: 10px;
+  text-align: left;
+  border: 1px solid #000;
+}
+
+thead {
+  background-color: #f2f2f2;
+}
+
+/* Different styles for the columns */
+td:nth-child(1),
+th:nth-child(1) {
+  background-color: #f9c2c2;
+  color: #000;
+  /* font-weight: bold; */
+  font-size: 16px;
+}
+
+td:nth-child(2),
+th:nth-child(2) {
+  background-color: #c2f9c2;
+  color: #000;
+  font-size: 16px;
+}
+
+td:nth-child(3),
+th:nth-child(3) {
+  background-color: #c2d1f9;
+  color: #000;
+  font-size: 16px;
+}
+
+th {
+  background-color: #333333;
+  color: white;
+}
+
+tfoot {
+  background-color: #f8f9fa;
+  font-weight: bold;
+}

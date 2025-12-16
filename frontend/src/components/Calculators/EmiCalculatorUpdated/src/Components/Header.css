@@ -1,0 +1,8 @@
+details[open] .arrow-icon {
+  transform: rotate(180deg); /* Rotate arrow downwards when open */
+}
+
+.arrow-icon {
+  transform: rotate(0deg); /* Default arrow direction (upwards) */
+  transition: transform 0.3s ease; /* Smooth rotation animation */
+}
